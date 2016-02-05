@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/plus.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/plus.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/calendar_top_header.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/calendar_top_header.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/calendar_centralheader.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/calendar_centralheader.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/cal_right_arrow_off.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/cal_right_arrow_off.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/cal_left_arrow_on.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/cal_left_arrow_on.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/calendar_bg_orange.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/calendar_bg_orange.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/calendar_button_selector.xml",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/calendar_button_selector.xml"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/calendar_tile_small.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/calendar_tile_small.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/cal_left_arrow_off.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/cal_left_arrow_off.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/calendar_view.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/calendar_view.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/cal_right_arrow_on.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/cal_right_arrow_on.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/calendar_tile.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/calendar_tile.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/calendar_right_arrow_selector.xml",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/calendar_right_arrow_selector.xml"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/calendar_left_arrow_selector.xml",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/calendar_left_arrow_selector.xml"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/topbar.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/topbar.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/meenu.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/meenu.png"
+    },
+    {
+        "merged": "/Users/RRK/Desktop/Studio_Project/Calender/app/build/intermediates/res/merged/debug/drawable/calendar_days.png",
+        "source": "/Users/RRK/Desktop/Studio_Project/Calender/app/src/main/res/drawable/calendar_days.png"
+    }
+]
